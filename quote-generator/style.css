@@ -7,7 +7,7 @@ html {
 body {
     margin: 0;
     min-height: 100vh;
-    background-image: url("https://aws1.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/f/1/7/f17d775b5e7e834f7895d23f404c14a4b98a28be.jpeg");
+    background-image: url("background.jpeg");
     color: #fff;
     font-family: Klee One, sans-serif;
     font-weight: 700;
